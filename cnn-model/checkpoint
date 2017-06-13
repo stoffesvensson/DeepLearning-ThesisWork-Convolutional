@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\Projects\\DeepLearning-model-Flask\\cnn-model\\testModel"
+all_model_checkpoint_paths: "G:\\Projects\\DeepLearning-model-Flask\\cnn-model\\testModel"
